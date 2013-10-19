@@ -16,3 +16,5 @@ gem "redcarpet"
 gem 'haml', "< 4.0"
 
 gem 'coffee-filter' # Coffeescript filter for HAML
+
+gem "middleman-sync", "~> 3.0.12"
